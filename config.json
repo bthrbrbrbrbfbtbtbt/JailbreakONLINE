@@ -1,6 +1,6 @@
 {
   "panel_status": "OFF",
   "login_url": "https://free.kuropanel.me/public/connect",
-  "panel_blocked": true,
+  "panel_blocked": false,
   "block_message": "Panel is temporarily down for maintenance. Please try again later."
 }
